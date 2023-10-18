@@ -1,4 +1,4 @@
-git git sta#include <fstream>
+git git stag#include <fstream>
 #include <iostream>
 #include <string.h>
 #include <string>
